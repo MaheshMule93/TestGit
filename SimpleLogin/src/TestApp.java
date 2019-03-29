@@ -7,6 +7,7 @@ class TestApp {
 	@Test
 	void test() {
 		fail("Not yet implemented");
+		System.out.println("Test my data");
 	}
 
 }
